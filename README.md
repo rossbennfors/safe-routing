@@ -29,3 +29,7 @@ The system works by:
 - **Routing Engine**: Uses Dijkstra’s algorithm with custom weights to produce safest and shortest routes.
 - **Evaluation Tools**: Includes functions to generate and analyse routes across multiple node pairs.
 
+## Academic Report
+
+The file **`Safe_Routing_Final_Report_Submition.pdf`** provides a detailed academic report outlining the motivation, methodology, implementation, and evaluation of this project. It includes references, discussion of results, limitations, and suggestions for future work.
+
