@@ -20,7 +20,6 @@ The system works by:
 | `crime_data.py`          | Functions to download, clean, and weight crime data using the Police.uk API. |
 | `Crime-routing.ipynb`    | Computes IDW crime scores for each network edge. |
 | `merge-routing.ipynb`    | Merges crime and pedestrian data, generates routes, and performs analysis and evaluation. |
-| `output/`                | (Optional) Contains saved figures, maps, and evaluation plots. |
 
 ## Features
 
